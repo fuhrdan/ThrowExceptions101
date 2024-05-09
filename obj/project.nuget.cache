@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "48drKbgn2oEiac2UA/4EiBJ1YP36D3+IOq/vNQU+sLzuYfN67erYWuSrQMx7Fc6/XALzaa5devoIx/p5K9p9jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksfuh\\Desktop\\CsharpProjects\\ThrowExceptions101\\ThrowExceptions101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ksfuh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
